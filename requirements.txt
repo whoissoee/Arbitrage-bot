@@ -1,0 +1,5 @@
+aiogram==2.25.1
+loguru==0.7.2
+python-binance==1.0.19
+AioCryptoPay==0.3.5
+asyncpg==0.29.0
